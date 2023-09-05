@@ -1,0 +1,5 @@
+{{#user}}
+Name: Sushma Soujanya Tirumalasetti
+Skills: HTML, CSS, JS, ReactJS, Python, C, Git and GitHub Basics
+Email: sushmasoujanya@gmail.com
+{{/user}}
